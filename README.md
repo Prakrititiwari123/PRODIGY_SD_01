@@ -1,4 +1,4 @@
-This is a simple and beginner-friendly program that allows users to convert temperatures to Celsius, Fahrenheit, or Kelvin.
+This is a simple and beginner-friendly program that allows users to convert temperatures between to Celsius, Fahrenheit, and Kelvin.
 It is built to practice basic concepts like user input, conditional statements, and mathematical formulas.
 
 ⚙️ Features
